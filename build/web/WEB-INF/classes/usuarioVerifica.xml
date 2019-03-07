@@ -1,0 +1,5 @@
+<dataset>
+	<usuario login="fernanda" email="fernanda@gmail.com" nome="FERNANDA DA SILVA" senha="12345" pontos="10" />
+	<usuario login="joao" email="joao@gmail.com" nome="JOAO DA SILVA" senha="12345" pontos="0" />
+	<usuario login="pedro" email="pedro@gmail.com" nome="PEDRO DA SILVA" senha="6789" pontos="0" />
+</dataset>
